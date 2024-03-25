@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\GiuaKy\obj\Debug\GiuaKy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\GiuaKy\obj\Debug\GiuaKy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GiuaKy\bin\Debug\GiuaKy.exe.config
+C:\Users\ASUS\source\repos\GiuaKy\bin\Debug\GiuaKy.exe
+C:\Users\ASUS\source\repos\GiuaKy\bin\Debug\GiuaKy.pdb
+C:\Users\ASUS\source\repos\GiuaKy\obj\Debug\GiuaKy.exe
+C:\Users\ASUS\source\repos\GiuaKy\obj\Debug\GiuaKy.pdb
